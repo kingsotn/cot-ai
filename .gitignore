@@ -1,0 +1,24 @@
+# Ignore virtual environment (if any)
+venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the build directory
+build/
+
+# Ignore the distribution directory
+dist/
+
+# Ignore egg-info directory
+*.egg-info/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore config.py (if any)
+config.py
+
+.DS_Store
+
+chroma/
